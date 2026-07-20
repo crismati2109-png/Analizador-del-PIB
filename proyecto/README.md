@@ -32,4 +32,5 @@ Este proyecto nace de la necesidad de explorar datos económicos reales de forma
 * `requirements.txt`: Lista de librerías requeridas para ejecutar la app.
 
 ---
-
+Cristian Gatica
+Eloy Cisterna
