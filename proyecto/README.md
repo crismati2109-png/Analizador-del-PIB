@@ -2,6 +2,8 @@
 
 Este proyecto nace de la necesidad de explorar datos económicos reales de forma visual e interactiva, evitando las planillas de datos aburridas y transformándolas en un dashboard accesible para cualquiera.
 
+👉 [https://miproyectofinalpib.streamlit.app/](https://miproyectofinalpib.streamlit.app/)
+
 ---
 
 ## ¿Qué hace esta app?
